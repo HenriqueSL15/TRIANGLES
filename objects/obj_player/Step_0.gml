@@ -3,7 +3,10 @@
 key_left = keyboard_check(ord("A"))
 key_right = keyboard_check(ord("D"))
 
-
+if(place_meeting(x,y,obj_portalEntry)){
+	obj_player.x = obj_portalExit.x;
+	obj_player.y = obj_portalExit.y;
+}
 
 
 var move = key_right - key_left
