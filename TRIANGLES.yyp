@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"obj_portalExit","path":"objects/obj_portalExit/obj_portalExit.yy",},"order":5,},
     {"id":{"name":"obj_invisibleBlock1","path":"objects/obj_invisibleBlock1/obj_invisibleBlock1.yy",},"order":2,},
+    {"id":{"name":"obj_jumpBlock","path":"objects/obj_jumpBlock/obj_jumpBlock.yy",},"order":6,},
     {"id":{"name":"obj_block1","path":"objects/obj_block1/obj_block1.yy",},"order":0,},
     {"id":{"name":"obj_battery","path":"objects/obj_battery/obj_battery.yy",},"order":3,},
     {"id":{"name":"fnt_gamer","path":"fonts/fnt_gamer/fnt_gamer.yy",},"order":0,},
@@ -15,6 +16,7 @@
     {"id":{"name":"spr_portalEntry","path":"sprites/spr_portalEntry/spr_portalEntry.yy",},"order":4,},
     {"id":{"name":"spr_battery","path":"sprites/spr_battery/spr_battery.yy",},"order":3,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
+    {"id":{"name":"spr_jumpBlock","path":"sprites/spr_jumpBlock/spr_jumpBlock.yy",},"order":6,},
     {"id":{"name":"spr_portalExit","path":"sprites/spr_portalExit/spr_portalExit.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

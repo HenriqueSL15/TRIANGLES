@@ -8,6 +8,10 @@ if(place_meeting(x,y,obj_portalEntry)){
 	obj_player.y = obj_portalExit.y;
 }
 
+if(place_meeting(x,y+1,obj_jumpBlock)){
+	vsp = -14;
+}
+
 
 var move = key_right - key_left
 
